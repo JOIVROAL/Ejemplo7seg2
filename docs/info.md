@@ -2,12 +2,12 @@ Es un ejemplo de BCD a 7 segmentos
 
 ## How it works
 
-Explain how your project works
+deede
 
 ## How to test
 
-Explain how to use your project
+dededed
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+dededed
